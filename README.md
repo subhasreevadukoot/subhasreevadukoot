@@ -7,11 +7,12 @@
 
 - 🔭 I love React, JavaScript and Java 
 - 🌱 I’m currently learning AWS and TypeScript
-- 👯 I’m looking to collaborate on anything exciting in Web Development
-- 💬 Ask me about React
+- 👯 I’m looking to collaborate on anything exciting in Web Development. 
+- 💬 Ask me about React.
 - 📫 Contact   : subhasreevadukoot@gmail.com
-- 🤔 Portfolio :
+- 🤔 Portfolio : https://subhasreevadukoot.netlify.app/
 - 😄 Pronouns  : She/Her
-- :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics, MSc in Big Data Management and Analytics  
-- ⚡ Fun fact  : ...
+- :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics :arrow_right: MSc in Big Data Management and Analytics  
+- ⚡ Fun fact  : 
+- :heartpulse: Values : Gratitude, Compassion, Grace
 
