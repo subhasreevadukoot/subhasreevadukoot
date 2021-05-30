@@ -12,6 +12,6 @@
 - 📫 Contact   : subhasreevadukoot@gmail.com
 - 🤔 Portfolio :
 - 😄 Pronouns  : She/Her
-- :mortar_board:  
+- :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics, MSc in Big Data Management and Analytics  
 - ⚡ Fun fact  : ...
 
