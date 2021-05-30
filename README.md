@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning AWS and TypeScript
 - 👯 I’m looking to collaborate on anything exciting in Web Development. 
 - 💬 Ask me about React.
-- 📫 Reach out to me:[mailto](subhasreevadukoot@gmail.com)
+- 📫 Reach out to me:<subhasreevadukoot@gmail.com>
 - :computer: [Portfolio](https://subhasreevadukoot.netlify.app/)
 - 😄 Pronouns  : She/Her
 - :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics :arrow_right: MSc in Big Data Management and Analytics  
