@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Contact : subhasreevadukoot@gmail.com
--    Portfolio 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- 🔭 I love React, JavaScript and Java 
+- 🌱 I’m currently learning AWS and TypeScript
+- 👯 I’m looking to collaborate on anything exciting in Web Development
+- 💬 Ask me about React
+- 📫 Contact   : subhasreevadukoot@gmail.com
+- 🤔 Portfolio :
+- 😄 Pronouns  : She/Her
+- :mortar_board:  
+- ⚡ Fun fact  : ...
 
