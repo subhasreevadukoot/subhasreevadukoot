@@ -14,6 +14,7 @@
 - 😄 Pronouns  : She/Her
 - :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics :arrow_right: MSc in Big Data Management and Analytics  
 - ⚡ Fun fact  : :heartpulse::coffee:
+- :raising_hand: Passionate about the cause of introducing more women to STEM. 
 
 
  
