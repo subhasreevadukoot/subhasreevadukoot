@@ -25,7 +25,7 @@
 
 <h4 align="left"> Connect with me on </h4>
 
-[![LinkedIn][2.2]][2].
+[![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
