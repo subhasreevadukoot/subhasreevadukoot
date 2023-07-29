@@ -15,12 +15,6 @@
 - ⚡ Fun fact  : :heartpulse::coffee:
 - :raising_hand: Passionate about the cause of encouraging more women to join STEM. 
 
- 
-
-<h3 align="left">Languages and Tools:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasreevadukoot&layout=compact&langs_count=8https://github.com/anuraghazra/github-readme-stats)
-
 
 <h4 align="left"> Connect with me on </h4>
 
