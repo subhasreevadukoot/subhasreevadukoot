@@ -5,16 +5,15 @@
 
 
 
-- 🔭 I love React, JavaScript and Java 
-- 🌱 I’m currently learning AWS and TypeScript
-- 👯 I’m looking to collaborate on anything exciting in Web Development. 
+- 🔭 I love Kotlin, Java and meetups!
+- 👯 I’m looking to collaborate on anything exciting in Backend Development or community building. 
 - 💬 Ask me about React.
 - 📫 Reach out to me : <subhasreevadukoot@gmail.com>
 - :computer: [Portfolio](https://subhasreevadukoot.netlify.app/)
 - 😄 Pronouns  : She/Her
 - :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics :arrow_right: MSc in Big Data Management and Analytics  
 - ⚡ Fun fact  : :heartpulse::coffee:
-- :raising_hand: Passionate about the cause of introducing more women to STEM. 
+- :raising_hand: Passionate about the cause of encouraging more women to join STEM. 
 
  
 
