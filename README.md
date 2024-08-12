@@ -7,7 +7,6 @@
 
 - 🔭 I love Kotlin, Java and meetups!
 - 👯 I’m looking to collaborate on anything exciting in Backend Development or community building. 
-- 💬 Ask me about React.
 - 📫 Reach out to me : <subhasreevadukoot@gmail.com>
 - :computer: [Portfolio](https://subhasreevadukoot.netlify.app/)
 - 😄 Pronouns  : She/Her
