@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**subhasreevadukoot/subhasreevadukoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-
-- 🔭 I love Kotlin, Java and meetups!
-- 👯 I’m looking to collaborate on anything exciting in Backend Development or community building. 
-- 📫 Reach out to me : <subhasreevadukoot@gmail.com>
-- :computer: [Portfolio](https://subhasreevadukoot.netlify.app/)
-- 😄 Pronouns  : She/Her
-- :mortar_board: Academics: BSc in Computer Science, Mathematics and Electronics :arrow_right: MSc in Big Data Management and Analytics  
-- ⚡ Fun fact  : :heartpulse::coffee:
-- :raising_hand: Passionate about the cause of encouraging more women to join STEM. 
-
-
 <h4 align="left"> Connect with me on </h4>
 
 [![LinkedIn][2.2]][2]
